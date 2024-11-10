@@ -1,0 +1,49 @@
+body{
+    background-color: cornsilk;
+
+}
+.Main{
+    background-color: blue;
+    margin: auto;
+    width: 50%;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.inputElements input,textarea{
+    display: block;
+    width: 100%;
+    
+}
+.inputElements{
+    padding: 10px 20px;
+
+}
+.input-Btn input{
+    margin-left: 50px;
+    margin-right: 50px;
+border-radius: 5px;
+    
+}
+.input-Btn{
+    padding: 10px 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
